@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+html,body{
+    background-color: #D9AFD9;
+background-image: linear-gradient(90deg, #D9AFD9 0%, #97D9E1 100%);
+
+}
+
+.greetings{
+    font-family: 'Cookie', cursive !important;
+    font-size: 30px;
+    background: rgba(250, 0, 167, 0.295);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 5.5px );
+    -webkit-backdrop-filter: blur( 5.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    text-align: center;
+    color: #ffffff;
+}
+
+#span{
+    color: #fff;
+}
+
+.add{
+    float:left;
+    background: #6A5495;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 5.5px );
+    -webkit-backdrop-filter: blur( 5.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin-top: 30px !important;
+    color: #fff;
+    width: 45%;
+    height: 10%;
+}
+.log{
+    float:right;
+    padding-right: 10px;
+    background: #6A5495;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 5.5px );
+    -webkit-backdrop-filter: blur( 5.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    width: 45%;
+    color: #fff;
+    height: 10%;
+    margin-top: 30px !important;
+}
+
+.log:hover{
+    background: #54BAB9;
+    color: #000;
+}
+
+.add:hover{
+    background: #54BAB9;
+    color: #000;
+}
+.cuscard{
+    background: rgba(35, 245, 175, 0.4);
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 5.5px );
+-webkit-backdrop-filter: blur( 5.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}

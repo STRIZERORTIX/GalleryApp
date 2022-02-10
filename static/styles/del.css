@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700&display=swap');
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: #4158D0;
+    background-image: linear-gradient(90deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    margin: 30px;
+}
+
+.cbtn {
+    background-color: rgb(235, 49, 49);
+    padding: 10px 20px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.cbtn:hover {
+    background-color: rgba(255, 71, 71, 0.76);
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+.nbtn {
+    background-color: rgb(83, 245, 83);
+    padding: 10px 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.nbtn:hover {
+    background-color: rgb(162, 247, 162);
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    width: 500px;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+    line-height: 90%;
+}
+
+span {
+    font-weight: bold;
+}
+
+div {
+    transform: translateY(100px);
+}
